@@ -1,0 +1,6 @@
+.vs
+Debug
+learncpp.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
